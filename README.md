@@ -76,10 +76,12 @@ You can check your deployed applicaiton on the link that is shown.
 ### Project Gallery
 
 #### Desktop View
+
 <div style="display:flex; flex-direction:column; justify-content:center;align-items:center; gap: 15px;">
 <img src="/1.png" width="640" height="375"  alt="" >
 <img src="/2.png" width="640" height="375"  alt="" >
 </div>
+
 #### MOBILE View
 <div style="display:flex; justify-content: space-evenly; gap: 5px; flex-wrap:wrap;">
 <img src="/3.png" height="450" width="350"  alt="" >
@@ -103,4 +105,9 @@ You can check your deployed applicaiton on the link that is shown.
 ## More Links: 
 1. Backend Link : <a href="https://github.com/yagyesh-bobde/Vocally-Assignment-Backend" target="_blank" >https://github.com/yagyesh-bobde/Vocally-Assignment-Backend</a>
 
+
+### Created By<br>
+Yagyesh Bobde 
+Connect : 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagyesh-bobde-177523220/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yagyesh-bobde)
 
