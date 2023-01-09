@@ -2,6 +2,13 @@
 This is the final project created for the completion of Google Cloud Facilitator's Program. 
 PENAUTO is a react site which is mobile responsive. It also has form validation. I have deployed it using app engine on Google cloud platform.
 
+## GCP Services Used
+1. App Engine
+2. Compute Engine
+3. Cloud Storage ( for trying out if we can diretly host a html site by making it a public access in the cloud storage)
+4. IAM
+5. Cloud Monitoring
+
 # What is GCP? 
 GCP stands for Google Cloud Platform, it is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, Google Drive and YouTube.
 
@@ -72,6 +79,9 @@ You can check your deployed applicaiton on the link that is shown.
    ```
     $ npm run start
    ```
+
+NOTE: I have also deployed the backend of this project with a VM instance in Compute Engine, but since the URL for that is http and a request is being is sent by an https origin, it is not working properly.
+
 
 ### Project Gallery
 
